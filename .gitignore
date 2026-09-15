@@ -10,3 +10,6 @@
 local.properties
 /app/build/
 /app/release/
+
+# Archivos de trabajo del emulador
+docs/capturas/s.png
