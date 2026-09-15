@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">IU Digital Radio</string>
+
+    <!-- Perfil -->
+    <string name="listener_default_name">Oyente IU Digital</string>
+    <string name="profile_title">Perfil del oyente</string>
+    <string name="profile_subtitle">IU Digital de Antioquia</string>
+    <string name="profile_take_photo">Tomar foto</string>
+    <string name="profile_retake_photo">Repetir foto</string>
+    <string name="profile_photo_desc">Fotografía de perfil del usuario</string>
+    <string name="profile_placeholder_desc">Avatar por defecto</string>
+
+    <!-- Permisos -->
+    <string name="permission_camera_rationale">Se requiere el permiso de cámara para actualizar la foto de perfil.</string>
+    <string name="permission_denied">Permiso de cámara denegado. Actívalo desde Ajustes para usar esta función.</string>
+
+    <!-- Reproductor -->
+    <string name="player_now_playing">Reproduciendo ahora</string>
+    <string name="player_paused">En pausa</string>
+    <string name="player_connecting">Conectando…</string>
+    <string name="player_simulated">Emisión simulada (sin señal)</string>
+    <string name="player_play">Reproducir</string>
+    <string name="player_pause">Pausar</string>
+    <string name="player_mute">Silenciar</string>
+    <string name="player_unmute">Activar sonido</string>
+
+    <!-- Catálogo -->
+    <string name="catalog_title">Emisoras disponibles</string>
+    <string name="catalog_subtitle">%1$d emisoras en el dial</string>
+</resources>

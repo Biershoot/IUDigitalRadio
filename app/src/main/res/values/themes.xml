@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Tema base de la aplicación. El aspecto visual se define en Compose
+         (ui/theme/Theme.kt); aquí solo se declara el tema del sistema. -->
+    <style name="Theme.IUDigitalRadio" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">#0B1B2B</item>
+        <item name="android:navigationBarColor">#0B1B2B</item>
+        <item name="android:windowBackground">#0B1B2B</item>
+    </style>
+</resources>
